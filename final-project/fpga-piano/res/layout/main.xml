@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/view_key" android:layout_height="fill_parent"
+	android:layout_width="wrap_content" android:layout_gravity="center_vertical">
+
+	<LinearLayout
+	    android:id="@+id/keys_container"
+	    android:layout_width="wrap_content"
+	    android:layout_height="fill_parent"
+	    android:layout_gravity="center_vertical"
+	    android:gravity="center_vertical|fill_horizontal"
+	    android:orientation="vertical" > 
+
+		<Button
+		    android:id="@+id/button2"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="                                                                                                                           Play Music and Show Piano Score (Super Mario)                                                                                                                                                                                               " />
+
+		<Button
+		    android:id="@+id/button1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="                                                                                                                                                 Start Metronome!                                                                                                                                                                                                             " />
+	    	
+	    
+		<ImageView android:id="@+id/img_key" android:src="@drawable/keys"
+			android:layout_height="fill_parent" android:layout_width="2800dp"
+			android:layout_gravity="center_vertical" android:scaleType="fitXY"
+			android:layout_marginTop="10dp" android:layout_marginBottom="10dp" />
+	</LinearLayout>
+</HorizontalScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Andro Instruments</string>
+    <string name="swipe_here">이 공간을 드래그하여 스크롤</string>
+    <string name="about">
+    	Android Instruments - 안드로이드용 연주 프로그램\n\n
+    	멀티 터치가 지원됩니다. 6옥타브 구간의 스크롤 가능한 건반을 가지고 있으며, 현실적인 수준에서 건반의 줌이 가능합니다.
+    	General MIDI에 해당하는 128개의 음색을 지원은 합니다만, 딱히 써먹을 수 있을지는 모르겠습니다.
+    	멀티터치는 Android 2.0 이상에서만 지원되기 때문에, 이하의 모델에서는 작동되지 않습니다.\n
+    </string>
+    <string name="general_midi_programs">General MIDI Programs</string>
+    
+    <string name="menu_zoom">줌 조절</string>
+    <string name="menu_program">악기 선택</string>
+    <string name="menu_about">이 프로그램은</string>
+</resources>
