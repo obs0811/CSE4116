@@ -1,9 +1,9 @@
-# Sogang Univ. Embedded System Software (CSE4116), Spring 2017
+# Embedded System Software (CSE4116), Spring 2017
 
 ## Description
 ### HW1: Calculator on board with IPC
 * Implemented clock, counter, text editor, and draw board by making cooperating processes communicate via IPC.
-* output process uses device control methods.
+* Output process uses device control methods.
 
 ### HW2: Device drivers
 * Implemented device drivers that control FPGA character devices via system calls. 
