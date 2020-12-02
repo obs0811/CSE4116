@@ -1,5 +1,4 @@
-# Embedded-System-Software-Course
-Homework for Sogang University Embedded System Software (CSE4116) Course, 2017 Spring
+# Sogang Univ. Embedded System Software (CSE4116), Spring 2017
 
 ## Description
 ### HW1: Calculator on board with IPC
